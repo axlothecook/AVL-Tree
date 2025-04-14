@@ -1,0 +1,23 @@
+*{
+    margin: 0;      
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+    height: 100%;
+    min-height: 100vh;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #252432;
+    color: black;
+    width: inherit;
+    height: inherit;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
